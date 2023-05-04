@@ -8,7 +8,7 @@ const Contact = () => {
   if (state.succeeded) {
       return(
         <section className="flex justify-center  bg-[#03051c] ">
-        <p className=" text-lg text-justify font-medium text-center m-8">Thanks for contacting me I will answer soon!!</p>
+        <p className=" text-lg text-justify font-medium text-center m-8">Thanks for contacting me I will answer soon!</p>
 
         </section>
 
