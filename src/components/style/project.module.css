@@ -1,0 +1,12 @@
+.project__figure:hover .capa {
+  transform: translateY(0%);
+}
+
+.project__figure:hover .figure__img {
+  transform: scale(1.3);
+}
+
+.box {
+  -webkit-box-shadow: 5px 5px 15px 4px #b2c2b8;
+  box-shadow: 5px 5px 15px 4px #b2c2b8;
+}
