@@ -1,14 +1,14 @@
 import React, { useEffect } from "react";
-import crud from "../../public/projects/crud3.jpg";
-import ecommerce from "../../public/projects/EcommerceReact.jpg";
+import crud from "../../public/projects/crud3.png";
+import ecommerce from "../../public/projects/EcommerceReact.png";
 import pokemon from "../../public/projects/poke2.png";
-import quotes from "../../public/projects/frases.jpg";
-import rick from "../../public/projects/rick.jpg";
-import weather from "../../public/projects/weather.jpg";
+import quotes from "../../public/projects/frases.png";
+import rick from "../../public/projects/rick.png";
+import weather from "../../public/projects/weather.png";
 import pawsitive from "../../public/projects/Home_paw.png";
 import style from "./style/project.module.css";
 import pedidos from "../../public/projects/pedidos.png"
-import html from "../../public/projects/Ecommercehtml.jpg"
+import html from "../../public/projects/Ecommercehtml.png"
 const Projects = () => {
   return (
     <section
