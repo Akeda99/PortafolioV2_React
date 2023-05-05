@@ -72,7 +72,7 @@ const Contact = () => {
 
           <div className="flex  gap-4 items-center my-[30px] mx-0  ">
             <div>
-              <a href="tel:+51910552498">
+              <a href="tel:+51961642488">
                 <i
                   className="fa-sharp fa-solid fa-phone w-[40px] h-[40px] rounded-full   text-center leading-[36px] text-xl 
               border-solid border-2 border-sky-500 text-black bg-[#00dfd8] hover:bg-[#ddd9d9] cursor-pointer"
@@ -81,7 +81,7 @@ const Contact = () => {
             </div>
             <div>
               <h2 className="text-xl font-semibold">Phone:</h2>
-              <a href="tel:+51910552498">
+              <a href="tel:+51961642488">
                 <span className=" text-base text-white">
                   {" "}
                   (+51)  961642488
